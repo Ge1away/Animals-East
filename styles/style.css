@@ -1,0 +1,185 @@
+* {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.text1 {
+    text-align: center;
+    color: rgb(5, 48, 16);
+    margin: 1;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.conteiner { 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    
+}
+
+.conteiner>img {
+    border-radius: 10px;
+width: 400px;
+margin-left: 10px;
+margin-right: 10px;
+margin-top: 20px;
+box-shadow: 2px 0px 5px 2px #000000;
+margin-bottom: 20;
+
+}
+.text2 { 
+    font-size: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+
+body { 
+    background: rgba(89, 120, 100, 0.411)
+}
+
+.text3 {
+    font-size: 20px;
+    margin-left: 145px;
+    display: inline-block;
+    word-spacing: 470px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.header {
+margin-left: 0px;
+    margin-bottom: 0px;
+background-color: #c8eacf00;
+display: inline-block;
+
+
+
+}
+
+.cont {
+
+    text-align: center;
+    color: #185013;
+position: absolute;
+font-size: 24px;
+padding-left: 700px;
+opacity: 50%;
+}
+    
+.headd {
+
+    font-size: 18px;
+    display: inline-block;
+    vertical-align: 19px;
+    
+    
+      
+}
+
+a {
+    color: #185013;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#167025; 
+    text-decoration:none; 
+    cursor:pointer;  
+}
+
+.text2 {
+    color: #185013;
+}
+
+.pod {
+
+    background-color: #1c1f1d;
+	width: 100%;
+    position: relative;
+	opacity: 10%;
+
+}
+.pdval {
+   
+    width: 100%;
+    position: relative;
+    background-color: #000000;
+    justify-content: center;
+    align-items: center;
+    opacity: 15%;
+}
+
+.vk {
+
+    position: absolute
+    ;
+    width: 100px;
+    margin-top: 60px;
+    margin-right: 0px;
+    margin-left: 20px;
+    opacity: 70%;
+  
+}
+
+.texxt { 
+
+    position: absolute;
+    color: #167025;
+    opacity: 40%;
+    font-size: 18px;
+    margin-top: 74px;
+    margin-right: 0px;
+    margin-left: 80px;
+    opacity: 50%;
+}
+
+.pin {
+
+    position: absolute;
+    position: absolute
+    ;
+    width: 100px;
+    margin-top: 60px;
+    margin-right: 0px;
+    margin-left: 300px;
+    opacity: 70%;
+}
+
+.textt {
+
+    position: absolute;
+    color: #167025;
+    opacity: 40%;
+    font-size: 18px;
+    margin-top: 74px;
+    margin-right: 0px;
+    margin-left: 360px;
+    opacity: 50%;
+}
+
+.podval 
+{ 
+    
+    background-size: 100vh;
+    
+}
+
+.text4 {
+  
+   
+    margin-right: 0px;
+    margin-left: 0px;
+   display: inline-block;
+}
+
+.text5 {
+  
+   
+    margin-right: 0px;
+    margin-left: 0px;
+    display: inline-block;
+}
